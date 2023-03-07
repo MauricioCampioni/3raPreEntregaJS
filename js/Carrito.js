@@ -91,6 +91,7 @@ let stockProductos=[
 {"nombre":"ShortTitular","precio":9500,"color":"Azul","talle":"L","sexo":"Mujer","img":"ShortBoca1.jpg"},
 {"nombre":"ShortNiño","precio":6500,"color":"Azul y Amarillo","talle":"XS","sexo":"Niño","img":"ShortBocaNiños1.jpg"},
 {"nombre":"BuzoTitular","precio":13500,"color":"Azul","talle":"S","sexo":"Hombre","img":"BuzoBoca.jpg"},
+{"nombre":"CamisetaNiño3","precio":10000,"color":"Azul","talle":"S","sexo":"Niños","img":"RemeraBocaNiños4.jpg"}
 ]
 
 let carrito=[];
